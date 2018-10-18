@@ -249,3 +249,7 @@
 ### Name [Harikrushna Vanpariya](https://github.com/hgvanpariya)
 - Bio: I'm Web Java Developer with Experience in Eclipse RCP.
 - Programming Language: Java, Springboot, REST API, Eclipse RCP, Machine Learning
+
+### Name [Eury Pérez B.](https://github.com/euri16)
+- Bio: Dominican, Christian, Mobile Dev, Geek.
+- Programming Language: Java, Kotlin, Swift, Javascript, Python.
